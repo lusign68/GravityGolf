@@ -8,3 +8,6 @@
 >When the ball has come to rest, click and hold to aim, release to take a shot.
 >
 >The aim is to reach the red marker in as few shots as possible. Each level adds a new planet.
+
+
+[Try It](https://lusign68.github.io/GravityGolf/index.html)
